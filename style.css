@@ -2,7 +2,6 @@ body {
 	background-color: black; 
 	font-family: arial; 
 	color: white
-
 }
 
 h1 {
@@ -19,4 +18,7 @@ h1 {
 	align: center;
 }
 
-
+.formdiv {
+	margin: auto;
+	width: 400px; 
+}
