@@ -1,3 +1,4 @@
+// Compute total interest given the principal, interest rate, and number of years.
 function compute()
 {
 	var principal = document.getElementById("principal").value;
@@ -22,9 +23,9 @@ function compute()
 	}
 }
 
+// Update the interest rate text as the rate slider is moved.
 function updateRate() 
 {
-	// Update the interest rate text as the rate slider is moved.
     	var rateval = document.getElementById("rate").value;
     	document.getElementById("rate_val").innerText = rateval + "%";
 }
