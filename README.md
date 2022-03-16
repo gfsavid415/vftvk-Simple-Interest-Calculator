@@ -1,1 +1,1 @@
-# coding-project-template
+03/15/2022: Do NOT delete this repo. It is the answer for a question in the Quizlet study set "Week 6 (part 1/1): Final Project: Preparation and GitHub Setup" <https://quizlet.com/648217806/flash-cards/>
